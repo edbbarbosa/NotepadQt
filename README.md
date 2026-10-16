@@ -14,4 +14,4 @@ $ make
 
 3 - Run NotepadQt
 ```
-$ ./Colour
+$ ./NotepadQt
